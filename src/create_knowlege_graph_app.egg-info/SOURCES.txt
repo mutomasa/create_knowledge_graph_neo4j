@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/create_knowlege_graph_app.egg-info/PKG-INFO
+src/create_knowlege_graph_app.egg-info/SOURCES.txt
+src/create_knowlege_graph_app.egg-info/dependency_links.txt
+src/create_knowlege_graph_app.egg-info/requires.txt
+src/create_knowlege_graph_app.egg-info/top_level.txt

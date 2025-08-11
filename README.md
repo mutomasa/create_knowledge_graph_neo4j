@@ -1,5 +1,7 @@
 ### 概要
 日本語の無料テキストから NER（固有表現抽出）と簡易関係抽出を行い、Neo4j に Cypher で知識グラフを構築します。NER は Hugging Face の日本語対応モデル、関係抽出は Sudachi による動詞抽出に基づく簡易ヒューリスティクスです。
+<img width="1427" height="824" alt="image" src="https://github.com/user-attachments/assets/fb8bbcf8-c1c9-435a-91a1-c946179addb2" />
+
 
 ### セットアップ（uv）
 - 依存関係の同期
